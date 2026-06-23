@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer interested in building AI-powered applicat
 * 🤖 AI Applications & Chatbots
 * 🚀 Building practical software solutions
 * 🌱 Continuously learning new technologies
-* 🎯 Open to internships and developer opportunities
+
 
 ---
 
